@@ -1,1 +1,3 @@
 # 11-HTML_Scraping
+
+These notebooks used Beautiful Soup to scrape two websites. The first includes news items (headlines and article teasers) that have news peratining to Mars. The second website includes temperature and atmospheric measurements taken from Mars. The data is scraped, organized and then analyzed for review in the Jupter Notebooks. The temperature data is also exported to a CSV file in the output folder.
